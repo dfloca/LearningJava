@@ -18,6 +18,9 @@ class CarOrderUtils {
                 carOrder = carOrders.get(0);
                 carOrders.add(carOrder);
             }
+            else if (i == 10) {
+                carOrder.setOrderDate(LocalDate.of(3000, 1, 1));
+            }
             else {
                 carOrder.setOrderDate(generateOrderDate());
                 carOrder.setVin(generateVIN(i));

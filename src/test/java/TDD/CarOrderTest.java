@@ -49,21 +49,6 @@ class CarOrderTest {
     }
 
     @Test
-    public void getMake_ReturnsCorrectMake() {
-
-    }
-
-    @Test
-    public void getModel_ReturnsCorrectModel() {
-
-    }
-
-    @Test
-    public void getTrim_ReturnsCorrectTrim() {
-
-    }
-
-    @Test
     public void getVIN_ReturnsCorrectVIN() {
 
     }

@@ -1,16 +1,12 @@
 # Learning Java
- Fundamentals of OOP, collections, sorting, string/date manipulation, and TDD
+ Fundamentals of OOP, collections, and TDD
 
 ### Order:
 1. Abstraction
 2. Inheritance
 3. Polymorphism
 4. Collections
-5. Maps
-6. Sorting
-7. String/Date Manipulation
-8. Test Driven Development
-9. Putting it all together
+5. Test Driven Development
 
 ###  Instructions:
   Go section by section and solve the coding problems.
